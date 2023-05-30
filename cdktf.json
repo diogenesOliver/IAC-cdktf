@@ -1,10 +1,11 @@
 {
-  "language": "typescript",
-  "app": "npx ts-node main.ts",
-  "projectId": "9765d83f-5dad-44f3-8c7c-ea2ecbc20dc5",
+  "language": "python",
+  "app": "python3 ./main.py",
+  "projectId": "ce5dc615-8660-4a5f-a9d5-fe6a2391950f",
   "sendCrashReports": "false",
   "terraformProviders": [],
   "terraformModules": [],
+  "codeMakerOutput": "imports",
   "context": {
     "excludeStackIdFromLogicalIds": "true",
     "allowSepCharsInLogicalIds": "true"
